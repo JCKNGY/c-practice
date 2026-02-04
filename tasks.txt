@@ -1,0 +1,2 @@
+1|Study C pointers
+0|Work on mental app
