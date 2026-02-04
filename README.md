@@ -56,6 +56,6 @@ c-practice/
 
 ## Daily Workflow
 
-git add .
-git commit -m "describe changes"
-git push
+- git add .
+- git commit -m "describe changes"
+- git push
